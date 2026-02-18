@@ -1,3 +1,83 @@
 patient_id,name,gender,dob
 1,John Doe,M,1980-01-01
 2,Jane Smith,F,1990-05-12
+3,Michael Johnson,M,1975-03-22
+4,Emily Davis,F,1988-07-14
+5,William Brown,M,1969-11-30
+6,Olivia Wilson,F,1995-09-18
+7,James Taylor,M,1982-04-09
+8,Sophia Anderson,F,1993-12-25
+9,Benjamin Thomas,M,1978-06-11
+10,Ava Martinez,F,1985-02-17
+11,Liam Garcia,M,1991-08-05
+12,Isabella Rodriguez,F,1983-10-29
+13,Noah Martinez,M,1977-01-19
+14,Mia Hernandez,F,1996-03-03
+15,Lucas Lopez,M,1984-05-27
+16,Charlotte Gonzalez,F,1992-07-21
+17,Ethan Perez,M,1981-09-13
+18,Amelia Wilson,F,1987-11-02
+19,Alexander Moore,M,1976-02-08
+20,Harper Jackson,F,1994-04-16
+21,Patient21,M,1980-01-21
+22,Patient22,F,1981-02-22
+23,Patient23,M,1982-03-23
+24,Patient24,F,1983-04-24
+25,Patient25,M,1984-05-25
+26,Patient26,F,1985-06-26
+27,Patient27,M,1986-07-27
+28,Patient28,F,1987-08-28
+29,Patient29,M,1988-09-01
+30,Patient30,F,1989-10-02
+31,Patient31,M,1990-11-03
+32,Patient32,F,1991-12-04
+33,Patient33,M,1970-01-05
+34,Patient34,F,1971-02-06
+35,Patient35,M,1972-03-07
+36,Patient36,F,1973-04-08
+37,Patient37,M,1974-05-09
+38,Patient38,F,1975-06-10
+39,Patient39,M,1976-07-11
+40,Patient40,F,1977-08-12
+41,Patient41,M,1978-09-13
+42,Patient42,F,1979-10-14
+43,Patient43,M,1980-11-15
+44,Patient44,F,1981-12-16
+45,Patient45,M,1982-01-17
+46,Patient46,F,1983-02-18
+47,Patient47,M,1984-03-19
+48,Patient48,F,1985-04-20
+49,Patient49,M,1986-05-21
+50,Patient50,F,1987-06-22
+800,Patient800,F,1999-12-20
+801,John Doe,M,1980-01-01
+802,Jane Smith,F,1990-05-12
+803,Michael Johnson,M,1975-03-22
+804,Emily Davis,F,1988-07-14
+805,William Brown,M,1969-11-30
+806,Olivia Wilson,F,1995-09-18
+807,James Taylor,M,1982-04-09
+808,Sophia Anderson,F,1993-12-25
+809,Benjamin Thomas,M,1978-06-11
+810,Ava Martinez,F,1985-02-17
+811,Liam Garcia,M,1991-08-05
+812,Isabella Rodriguez,F,1983-10-29
+813,Noah Martinez,M,1977-01-19
+814,Mia Hernandez,F,1996-03-03
+815,Lucas Lopez,M,1984-05-27
+816,Charlotte Gonzalez,F,1992-07-21
+817,Ethan Perez,M,1981-09-13
+818,Amelia Wilson,F,1987-11-02
+819,Alexander Moore,M,1976-02-08
+820,Harper Jackson,F,1994-04-16
+821,Patient21,M,1980-01-21
+822,Patient22,F,1981-02-22
+823,Patient23,M,1982-03-23
+824,Patient24,F,1983-04-24
+825,Patient25,M,1984-05-25
+826,Patient26,F,1985-06-26
+827,Patient27,M,1986-07-27
+828,Patient28,F,1987-08-28
+829,Patient29,M,1988-09-01
+830,Patient30,F,1989-10-02
+1000,Patient200,F,1987-06-22
